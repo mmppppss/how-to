@@ -25,7 +25,7 @@ Es necesario actualizar la lista para poder descargar el paquete deseado
 
     apt update && apt upgrade -y
 
-> _Nota.- confirme los mensajes de los archivos nuevos_
+> _Nota.- confirme los nuevos cambios de los archivos que se muestren en la terminal_
 
 
 ### Instalar proot-distro
